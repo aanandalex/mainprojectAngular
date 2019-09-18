@@ -1,0 +1,21 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+
+}
+
+mat-card {
+    margin: 1rem;
+}
+
+.infoText {
+    text-align: center;
+}
+
+mat-spinner {
+    margin: auto;
+}
+
+mat-paginator {
+    margin-top: 1rem;
+}
